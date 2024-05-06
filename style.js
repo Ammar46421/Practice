@@ -4,7 +4,7 @@ var city3 = "islamabad";
 var city4 = "hyderabad";
 var city5 = "sukkur";
 
-var city = prompt(city);
+var city = prompt("enter your city");
 if(city === city1){
     alert("Mobile Nikal Karwe")
 };
